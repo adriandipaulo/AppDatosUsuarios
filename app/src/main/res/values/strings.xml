@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppAgenda</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="fechaNa">Fecha de nacimiento</string>
+    <string name="tel">teléfono</string>
+    <string name="mail">Email</string>
+    <string name="descrip">Descripción del contacto</string>
+    <string name="editar">Editar Datos</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="pTel">telefono</string>
+
+</resources>
